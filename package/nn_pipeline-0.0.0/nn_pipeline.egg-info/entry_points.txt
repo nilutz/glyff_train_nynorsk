@@ -1,0 +1,3 @@
+[spacy_models]
+nn_pipeline = nn_pipeline
+
